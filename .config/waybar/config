@@ -39,7 +39,8 @@
         }
     },
     "tray": {
-        "spacing": 10
+        "spacing": 10,
+        "icon-theme": "Papirus-Dark"
     },
     "clock": {
         "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
